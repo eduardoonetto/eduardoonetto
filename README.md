@@ -1,9 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="30"/> Hola, Gracias por venir.</h1>
 
 
-<h2> Bienvenido a mi Perfil! <h2>
 
-</br> <p>Soy Eduardo, Analista Programador, Actualmente con el cargo de Software Engineer I en SOVOS LATAM &#160;<img src="https://emoji.gg/assets/emoji/1093_chileparrot.gif?t=1618195469" width="25"/> <b>Santiago, Chile</b></p>
+<p>Bienvenido a mi Perfil!</p> <p>Soy Eduardo, Analista Programador, Actualmente con el cargo de Software Engineer I en SOVOS LATAM &#160;<img src="https://emoji.gg/assets/emoji/1093_chileparrot.gif?t=1618195469" width="25"/> <b>Santiago, Chile</b></p>
 <h3>Experiencia En</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
